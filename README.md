@@ -1,3 +1,3 @@
 # Feature Detection---Computer-Vision
-Edge Detection using Sobel Operator
-Hough Transform to detect Lines & Circles
+1.Edge Detection using Sobel Operator
+2.Hough Transform to detect Lines & Circles
