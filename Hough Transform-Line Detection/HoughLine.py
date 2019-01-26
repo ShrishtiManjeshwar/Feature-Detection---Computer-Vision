@@ -127,7 +127,7 @@ def split(edge_points):
 acx=Accumulator(nx,"AccRed.jpg")
 vArrx=np.asarray(max_indices(acx,50))
 pt=split(vArrx)
-plot(nx,pt,"plotx.jpg","red_line.jpg")
+plot(nx,pt,"plotx.jpg","red_lines.jpg")
 #Yimage
 acy=Accumulator(ny,"AccBlue.jpg")
 vArry=np.asarray(max_indices(acy,30))
